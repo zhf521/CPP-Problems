@@ -76,12 +76,12 @@ Index，简称 BMI），是用体重公斤数除以身高米数平方得出的�
 
 输出：
 
-&ensp;&ensp;&ensp;&ensp;&ensp;1
+&ensp;&ensp;&ensp;&ensp;1
 
-&ensp;&ensp;&ensp;&ensp;1 1
+&ensp;&ensp;&ensp;1&ensp;1
 
-&ensp;&ensp;&ensp;1 1 1
+&ensp;&ensp;1&ensp;1&ensp;1
 
-&ensp;&ensp;1 1 1 1
+&ensp;1&ensp;1&ensp;1&ensp;1
 
- &ensp;1 1 1 1 1
+1&ensp;1&ensp;1&ensp;1&ensp; 1
