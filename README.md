@@ -302,24 +302,24 @@ Bingo 想获得某年某月有多少天，请帮他编程实现。输入年份�
 
 ## T16 三角形判断
 题目描述：
-Bingo 想知道已经给出的三条边 a，b，c 能否构成三角形，如果能构成三角形，判断三角形的类型（等边三角形、等腰三
-角形或普通三角形）
+Bingo 想知道已经给出的三条边 a，b，c 能否构成三角形，如果能构成三角形，判断三角形的类型（等边三角形、等腰三角形或普通三角形）
 
 输入描述：
 题目有多组输入数据，每一行输入三个 a，b，c(0<a,b,c<1000)，作为三角形的三个边，用空格分隔
 
 输出描述：
-针对每组输入数据，输出占一行，如果能构成三角形，等边三角形则输出“Equilateral triangle!”，等腰三角形则
-输出“Isosceles triangle!”，其余的三角形则输出“Ordinary triangle!”，反之输出“Not a triangle!”
+针对每组输入数据，输出占一行，如果能构成三角形，等边三角形则输出“Equilateral triangle!”，等腰三角形则输出“Isosceles triangle!”，其余的三角形则输出“Ordinary triangle!”，反之输出“Not a triangle!”
 
 示例：
 
 输入：
 
 2 3 2
+
 3 3 3
 
 输出：
 
 Isosceles triangle!
+
 Equilateral triangle
