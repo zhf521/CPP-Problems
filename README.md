@@ -323,3 +323,35 @@ Bingo 想知道已经给出的三条边 a，b，c 能否构成三角形，如果
 Isosceles triangle!
 
 Equilateral triangle
+
+## T17 HTTP状态码
+题目描述：
+Bingo 访问网站，得到 HTTP 状态码，但他不知道什么含义，焦老师告诉他常见 HTTP 状态码：200（OK，请求已成功），202（Accepted，服务器已接受请求，但尚未处理。）400（Bad Request，请求参数有误），403（Forbidden，被禁止），404（Not Found，请求失败），500（Internal Server Error，服务器内部错误），502（Bad Gateway，错误网关）
+
+输入描述：
+多组输入，一行，一个整数（100~600），表示 HTTP 状态码
+
+输出描述：
+针对每组输入的 HTTP 状态，输出该状态码对应的含义，具体对应如下：
+
+200-OK
+
+202-Accepted
+
+400-Bad Request
+
+403-Forbidden
+
+404-Not Found
+
+500-Internal Server Error
+
+502-Bad Gateway
+
+示例：
+
+输入：
+200
+
+输出：
+OK
