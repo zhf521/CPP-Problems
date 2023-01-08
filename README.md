@@ -467,10 +467,10 @@ Bingo 去面试公务员公务员面试现场打分。有 7 位考官，从键�
 
 输出：
 
-1 1 1 1
+1&ensp;1&ensp;1&ensp;1
 
-1     1
+1&ensp;&ensp;&ensp;&ensp;&ensp;1
 
-1     1
+1&ensp;&ensp;&ensp;&ensp;&ensp;1
 
-1 1 1 1
+1&ensp;1&ensp;1&ensp;1
