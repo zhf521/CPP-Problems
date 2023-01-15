@@ -4,7 +4,7 @@ void fun(char *a)
 {
     char *pch = NULL;
     pch = a;
-    while (*pch == '*' && *pch != '\0')
+    while (*pch == '#' && *pch != '\0')
     {
         pch++;
     }
